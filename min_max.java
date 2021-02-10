@@ -1,3 +1,4 @@
+//NOTE: This might not be the optimal solution, kindly refer some websites for most optimal solution
 public class min_max {
     static class Pair {
         int min, max;

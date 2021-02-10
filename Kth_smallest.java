@@ -1,3 +1,4 @@
+//NOTE: This might not be the optimal solution, kindly refer some websites for most optimal solution
 public class Kth_smallest {
     public static void main(String[] args) {
         int[] arr = { 7, 10, 4, 3, 20, 15 };
